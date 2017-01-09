@@ -1,0 +1,85 @@
+#user-center-page .content {
+    padding: 30px 15px;
+}
+.myInfo{
+    margin-bottom: 40px;
+}
+.myInfo a{
+    display: block;
+    float:left;
+    width: 70px;
+    height: 70px;
+    margin-right:10px;
+}
+.myInfo img{
+    width: 70px;
+    height: 70px;
+}
+.myInfo .newsInfo{
+    float:left;
+    padding-top:20px;
+}
+.myInfo span{
+    line-height:14px;
+    font-size:14px;
+    height:14px;
+}
+.myInfo .clear{
+    clear: both;
+}
+
+.center-list {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background: #ffffff;
+
+}
+.arrow-item {
+    display: block;
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    color: #000;
+}
+.arrow-item i{
+    float:right;
+    padding-right:5px;
+    color: #9a9fa5;
+    font-weight:900;
+}
+.center-list .no-bor{
+    border-bottom: none;
+}
+
+/*
+.exit-page{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    display: none;
+}
+.zhezhao{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    top:0;
+    left:0;
+    rgba(0,0,0,0.5);
+}
+.exit{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-top:-100px;
+    margin-left:-150px;
+}
+*/
+
+
+
+

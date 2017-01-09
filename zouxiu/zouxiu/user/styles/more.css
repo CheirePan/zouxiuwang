@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.more-list{
+	background-color: #FFFFFF;
+}
+.more-list li{
+	height: 44px;
+	line-height: 44px;
+	border-bottom: 1px solid #e6e6e6;
+}
+.more-list li a{
+	display: block;
+	color: #484848;
+}
+.more-list li .fleft{
+	float: left;
+	margin-left: 22px;
+}
+.more-list li .fright{
+	float: right;
+	margin-right: 22px;
+}
+
